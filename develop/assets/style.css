@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*fixed hero*/
 .hero {
     height: 800px;
     width: 100%;
@@ -85,23 +85,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*for each benefit section*/
 .benefit-one {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*condensed styles in classes*/
 .benefit-one h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*benefit img layout for all*/
 .benefit-one img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* layout for benifits*/
 .primary {
     margin-bottom: 20px;
     padding: 50px;
